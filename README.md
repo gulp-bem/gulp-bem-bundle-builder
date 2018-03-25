@@ -1,12 +1,9 @@
 # gulp-bem-bundle-builder
 
+*DEPRECATED repository, moved to mono repository [gulp-bem](https://github.com/bem/gulp-bem/tree/master/packages/gulp-bem-bundle-builder)*
+
 Easy to use builder for streams of [`BemBundle`][]
 and [`Vinyl`][] objects;
-
-[![NPM Status][npm-img]][npm]
-[![Travis Status][travis-img]][travis]
-[![Coverage Status][coveralls-img]][coveralls]
-[![Dependency Status][david-img]][david]
 
 ## Install
 
